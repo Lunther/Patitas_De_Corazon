@@ -1,0 +1,122 @@
+/*font-family: 'Lobster', cursive;
+font-family: 'Arvo', serif;
+font-family: 'Indie Flower', cursive;*/
+
+#contenidos
+{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background: transparent;
+}
+body
+{
+	background-image: url(../img/bc5.jpg);
+	background-repeat: repeat-x;
+	background-size: cover;
+}
+h1
+{
+	font-family: 'Lobster', cursive;
+	margin-left:20px;
+	font-size: 65px;
+	text-align: center;
+	
+}
+h2
+{
+	font-family: 'Indie Flower', cursive;
+	margin-left:20px;
+	font-size: 30px;
+	text-align: center;
+	color: orangered;
+}
+h3
+{
+	font-family: 'Indie Flower', cursive;
+	margin-left:20px;
+	font-size: 30px;
+	text-align: left;
+	color: brown;
+}
+h4
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+}
+
+header
+{
+	width: 1000px;
+	height: 75px;
+	background: transparent;
+}
+
+nav
+{
+	width: 1000px;
+	height: 55px;
+	background: transparent; 
+}
+
+ul
+{
+	margin: auto;
+	padding-top: 4px;
+}
+li
+{
+	font-family: 'Arvo', serif;
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: lightgrey;
+	text-align: center;
+	margin: 2px;
+	border-radius: 10px;
+	box-shadow: 0.0 5px grey inset;
+	text-align: center;
+	margin-left: 55px;
+}
+
+section
+{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 16px;
+	width: 600px;
+	height: 700px;
+	float: left;
+	color: black;
+}
+aside
+{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 16px;
+	width: 300px;
+	height: 800px;
+	float: left;
+	margin-left: 30px
+	background-color: transparent;
+	margin-left: 20px;
+}
+footer
+{
+font-family: 'Arvo', serif;
+width: 1000px;
+text-align: center;
+height: 35px;
+float: left;
+bottom: 0px;
+color: blue;
+}
+
+
+
+
+
+
+
+
